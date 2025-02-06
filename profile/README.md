@@ -1,7 +1,7 @@
-## Hi! This is Vramework!
+## Hi! This is Pikku!
 
-- Documents 📖 [vramework.dev](https://vramework.dev)
-- Questions ❔ [GitHub Discussions](https://github.com/orgs/vramework/discussions)
-- Bug Reports 🐛 [GitHub Issues](https://github.com/vramework/vramework/issues)
-- Announcements 📣 [GitHub Releases](https://github.com/vramework/vramework/releases)
-- Contributing 👷🏽 [Here](https://github.com/vramework)
+- Documents 📖 [Pikku.dev](https://Pikku.dev)
+- Questions ❔ [GitHub Discussions](https://github.com/orgs/pikku/discussions)
+- Bug Reports 🐛 [GitHub Issues](https://github.com/pikkujs/pikku/issues)
+- Announcements 📣 [GitHub Releases](https://github.com/pikkujs/pikku/releases)
+- Contributing 👷🏽 [Here](https://github.com/pikkujs)
